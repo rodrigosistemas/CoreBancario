@@ -2,7 +2,7 @@
 
 ## Descripción
 Es un sistema desarrollado en Java 21 que ejecuta un núcleo bancario básico a través de la terminal.
-Este proyecto está diseñado para gestionar de manera eficiente diferentes tipos de cuentas bancarias,
+Este proyecto está diseñado para gestionar de manera eficiente clientes, diferentes tipos de cuentas bancarias,
 realizar transacciones financieras y generar reportes detallados de las operaciones realizadas. 
 Utiliza principios de Programación Orientada a Objetos (POO) para garantizar una arquitectura limpia y escalable.
 
@@ -56,12 +56,14 @@ java -cp bin Main
 ## 🚀 Utilización
 Una vez ejecutada la aplicación, se presentará un menú interactivo en la terminal con las siguientes opciones:
 
-1. Crear Cuenta: Permite crear una nueva cuenta bancaria seleccionando el tipo deseado.
-2. Realizar Depósito: Añade fondos a una cuenta existente.
-3. Realizar Retiro: Retira fondos de una cuenta, verificando que el saldo sea suficiente.
-4. Realizar Transferencia: Transfiere fondos entre dos cuentas dentro del sistema.
-5. Generar Reporte de Transacciones: Muestra un historial de todas las operaciones realizadas.
-6. Salir: Cierra la aplicación.
+1. Crear Cliente: Permite crear un nuevo cliente en el sistema.
+2. Crear Cuenta: Permite crear una nueva cuenta bancaria seleccionando el tipo deseado.
+3. Realizar Depósito: Añade fondos a una cuenta existente.
+4. Realizar Retiro: Retira fondos de una cuenta, verificando que el saldo sea suficiente.
+5. Realizar Transferencia: Transfiere fondos entre dos cuentas dentro del sistema.
+6. Generar Reporte de Transacciones: Muestra un historial de todas las operaciones realizadas.
+7. Salir: Cierra la aplicación.
+
 
 ---
 
