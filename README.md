@@ -62,8 +62,8 @@ Una vez ejecutada la aplicación, se presentará un menú interactivo en la term
 4. Realizar Retiro: Retira fondos de una cuenta, verificando que el saldo sea suficiente.
 5. Realizar Transferencia: Transfiere fondos entre dos cuentas dentro del sistema.
 6. Generar Reporte de Transacciones: Muestra un historial de todas las operaciones realizadas.
-7. Salir: Cierra la aplicación.
-
+7. Reiniciar Sistema: Eliminar todos los registros de la aplicación.
+8. Salir: Cierra la aplicación.
 
 ---
 
